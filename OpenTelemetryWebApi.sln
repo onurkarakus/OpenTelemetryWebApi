@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenTelemetryWebApi", "OpenTelemetryWebApi.csproj", "{D629B042-3DE2-49E6-B153-108B44A1B9DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D629B042-3DE2-49E6-B153-108B44A1B9DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D629B042-3DE2-49E6-B153-108B44A1B9DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D629B042-3DE2-49E6-B153-108B44A1B9DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D629B042-3DE2-49E6-B153-108B44A1B9DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00C92040-B8D3-45B4-850F-A96413E58CF6}
+	EndGlobalSection
+EndGlobal
